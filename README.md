@@ -8,7 +8,7 @@ This ticket volume dashboard helps an IT department track its performance and po
 
 
 
-_Inspired by https://babalola-damilola.github.io/Portfolio/_
+_Inspired by linkedin.com/in/babaloladamilola_
 
 
 
