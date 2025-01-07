@@ -3,6 +3,7 @@ This ticket volume dashboard helps an IT department track its performance and po
 
 ## Dashboard
 
+![Ticket Volume Dashboard](https://github.com/Jucodez/Servitium-Ticket-Volume-Dashboard/blob/main/Ticket%20Volume%20Dashboard.png)
 
 
 
